@@ -1,0 +1,35 @@
+.\objects\trail.o: Hardware\Trail.c
+.\objects\trail.o: .\Start\stm32f10x.h
+.\objects\trail.o: .\Start\core_cm3.h
+.\objects\trail.o: D:\keil5 mdk\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\trail.o: .\Start\system_stm32f10x.h
+.\objects\trail.o: .\User\stm32f10x_conf.h
+.\objects\trail.o: .\Library\stm32f10x_adc.h
+.\objects\trail.o: .\Start\stm32f10x.h
+.\objects\trail.o: .\Library\stm32f10x_bkp.h
+.\objects\trail.o: .\Library\stm32f10x_can.h
+.\objects\trail.o: .\Library\stm32f10x_cec.h
+.\objects\trail.o: .\Library\stm32f10x_crc.h
+.\objects\trail.o: .\Library\stm32f10x_dac.h
+.\objects\trail.o: .\Library\stm32f10x_dbgmcu.h
+.\objects\trail.o: .\Library\stm32f10x_dma.h
+.\objects\trail.o: .\Library\stm32f10x_exti.h
+.\objects\trail.o: .\Library\stm32f10x_flash.h
+.\objects\trail.o: .\Library\stm32f10x_fsmc.h
+.\objects\trail.o: .\Library\stm32f10x_gpio.h
+.\objects\trail.o: .\Library\stm32f10x_i2c.h
+.\objects\trail.o: .\Library\stm32f10x_iwdg.h
+.\objects\trail.o: .\Library\stm32f10x_pwr.h
+.\objects\trail.o: .\Library\stm32f10x_rcc.h
+.\objects\trail.o: .\Library\stm32f10x_rtc.h
+.\objects\trail.o: .\Library\stm32f10x_sdio.h
+.\objects\trail.o: .\Library\stm32f10x_spi.h
+.\objects\trail.o: .\Library\stm32f10x_tim.h
+.\objects\trail.o: .\Library\stm32f10x_usart.h
+.\objects\trail.o: .\Library\stm32f10x_wwdg.h
+.\objects\trail.o: .\Library\misc.h
+.\objects\trail.o: Hardware\motor.h
+.\objects\trail.o: .\System\delay.h
+.\objects\trail.o: Hardware\oled.h
+.\objects\trail.o: .\System\sys.h
+.\objects\trail.o: D:\keil5 mdk\ARM\ARMCC\Bin\..\include\stdlib.h

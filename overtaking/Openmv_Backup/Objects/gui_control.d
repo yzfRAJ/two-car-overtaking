@@ -1,0 +1,35 @@
+.\objects\gui_control.o: User\GUI_control.c
+.\objects\gui_control.o: .\Start\stm32f10x.h
+.\objects\gui_control.o: .\Start\core_cm3.h
+.\objects\gui_control.o: D:\keil5 mdk\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gui_control.o: .\Start\system_stm32f10x.h
+.\objects\gui_control.o: .\User\stm32f10x_conf.h
+.\objects\gui_control.o: .\Library\stm32f10x_adc.h
+.\objects\gui_control.o: .\Start\stm32f10x.h
+.\objects\gui_control.o: .\Library\stm32f10x_bkp.h
+.\objects\gui_control.o: .\Library\stm32f10x_can.h
+.\objects\gui_control.o: .\Library\stm32f10x_cec.h
+.\objects\gui_control.o: .\Library\stm32f10x_crc.h
+.\objects\gui_control.o: .\Library\stm32f10x_dac.h
+.\objects\gui_control.o: .\Library\stm32f10x_dbgmcu.h
+.\objects\gui_control.o: .\Library\stm32f10x_dma.h
+.\objects\gui_control.o: .\Library\stm32f10x_exti.h
+.\objects\gui_control.o: .\Library\stm32f10x_flash.h
+.\objects\gui_control.o: .\Library\stm32f10x_fsmc.h
+.\objects\gui_control.o: .\Library\stm32f10x_gpio.h
+.\objects\gui_control.o: .\Library\stm32f10x_i2c.h
+.\objects\gui_control.o: .\Library\stm32f10x_iwdg.h
+.\objects\gui_control.o: .\Library\stm32f10x_pwr.h
+.\objects\gui_control.o: .\Library\stm32f10x_rcc.h
+.\objects\gui_control.o: .\Library\stm32f10x_rtc.h
+.\objects\gui_control.o: .\Library\stm32f10x_sdio.h
+.\objects\gui_control.o: .\Library\stm32f10x_spi.h
+.\objects\gui_control.o: .\Library\stm32f10x_tim.h
+.\objects\gui_control.o: .\Library\stm32f10x_usart.h
+.\objects\gui_control.o: .\Library\stm32f10x_wwdg.h
+.\objects\gui_control.o: .\Library\misc.h
+.\objects\gui_control.o: .\Hardware\Key.h
+.\objects\gui_control.o: .\System\sys.h
+.\objects\gui_control.o: .\Hardware\OLED.h
+.\objects\gui_control.o: D:\keil5 mdk\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\gui_control.o: User\GUI_control.h
